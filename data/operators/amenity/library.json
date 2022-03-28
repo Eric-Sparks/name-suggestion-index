@@ -279,6 +279,18 @@
       }
     },
     {
+      "displayName": "Calvert Library"
+      "locationSet": {
+        "include": ["us-md.geojson"]
+       },
+       "tags": {
+         "amenity": "library",
+         "operator": "Calvert Library"
+         "operator:type": "public",
+         "operator:wikidata": "Q69478545",
+       }
+    },
+    {
       "displayName": "CCEG",
       "id": "cceg-03d22a",
       "locationSet": {"include": ["fx"]},
